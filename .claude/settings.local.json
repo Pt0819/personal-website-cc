@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(go mod:*)",
+      "Bash(go get:*)",
+      "Bash(go run:*)",
+      "Bash(curl -s http://localhost:8080/api/profile)",
+      "Bash(curl -s http://localhost:8080/api/skills)",
+      "Bash(curl -s http://localhost:8080/api/contacts)"
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "profile": {
+    "name": "张三",
+    "title": "全栈开发工程师",
+    "bio": "热爱编程，专注于 Web 开发和技术分享。拥有5年开发经验，擅长 React、Go、TypeScript 等技术栈。",
+    "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=default"
+  },
+  "skills": [
+    {
+      "name": "React",
+      "level": 90,
+      "category": "前端"
+    },
+    {
+      "name": "TypeScript",
+      "level": 85,
+      "category": "前端"
+    },
+    {
+      "name": "Golang",
+      "level": 80,
+      "category": "后端"
+    },
+    {
+      "name": "Node.js",
+      "level": 75,
+      "category": "后端"
+    },
+    {
+      "name": "PostgreSQL",
+      "level": 70,
+      "category": "数据库"
+    },
+    {
+      "name": "Docker",
+      "level": 65,
+      "category": "DevOps"
+    }
+  ],
+  "contact": {
+    "email": "zhangsan@example.com",
+    "github": "https://github.com/zhangsan",
+    "linkedin": "https://linkedin.com/in/zhangsan",
+    "twitter": "https://twitter.com/zhangsan"
+  }
+}
